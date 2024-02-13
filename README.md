@@ -2,7 +2,7 @@
 
 **My name is Romel!** ☺️
 
-Im in my final year of Computer Science at MacEwan University!
+My computer science journey started in an introductory class to Python! From then on my interest in programming, development and related technologies increased as I took more advanced classes. My interests lie in game development, wev-app development and design.
 
 Find me on [Linkedin](https://www.linkedin.com/in/romel-mendoza-0331072aa/)
 <!--
